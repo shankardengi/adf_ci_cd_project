@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-shankar-cicd",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4541775-f9ae-4601-aab4-6932e8f0c337",
+		"tenantId": "4de3bda5-8d0b-4f57-9ce1-1fd14015368f"
+	}
+}
